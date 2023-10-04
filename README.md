@@ -8,4 +8,4 @@ A simple Flutter project.
 
 ![delete.png](screenshots%2Fdelete.png)
 
-![water_tracking.gif](screenshots%2Fwater_tracking.gif)
+![water_tracking_all.gif](screenshots%2Fwater_tracking_all.gif)
